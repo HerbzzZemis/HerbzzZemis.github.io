@@ -87,6 +87,12 @@ nav{
     color: #889dbf;
 }
 
+#wrapper {
+    margin-left:auto;
+    margin-right:auto;
+    width:960px;
+}
+
 .trialbutton{
     position: fixed;
     line-height: 45px;
